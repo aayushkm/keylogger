@@ -1,0 +1,5 @@
+Public IP Address: 14.139.175.163Processor: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: MSI
+Private IP Address: 192.168.56.1
